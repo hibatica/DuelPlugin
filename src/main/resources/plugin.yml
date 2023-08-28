@@ -1,0 +1,14 @@
+name: DuelPlugin
+version: '${project.version}'
+main: me.hibatica.duelplugin.DuelPlugin
+api-version: '1.20'
+
+commands:
+  duelstats:
+    description: Get a players dueling stats.
+    usage: /dualstats [PlayerName]
+
+permissions:
+  duelplugin.duelstats:
+    description: Allows a player to get player duel stats.
+    default: true

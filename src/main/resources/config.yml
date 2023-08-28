@@ -1,0 +1,24 @@
+# See https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html for valid items
+kit:
+  LEATHER_HELMET:
+    amount: 1
+  IRON_CHESTPLATE:
+    amount: 1
+  LEATHER_LEGGINGS:
+    amount: 1
+  GOLDEN_BOOTS:
+    amount: 1
+  IRON_SWORD:
+    amount: 1
+  IRON_AXE:
+    amount: 1
+  FISHING_ROD:
+    amount: 1
+  FLINT_AND_STEEL:
+    amount: 1
+  WATER_BUCKET:
+    amount: 1
+  COOKED_BEEF:
+    amount: 16
+  GOLDEN_APPLE:
+    amount: 3
